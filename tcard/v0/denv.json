@@ -1,0 +1,14 @@
+{
+  "https":{
+    "superapp": "timecards",
+    "appid": "tcard",
+    "url": {
+      "soauth": "https://services.sitebuilt.net/soauth",
+      "api": "https://services.sitebuilt.net/timecards/api",
+      "jobs": "https://timecards.sitebuilt.net/jobs/#jobs"
+    },
+    "cbPath": "#registered"
+  },
+  "local": {
+  }
+}

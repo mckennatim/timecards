@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "signup"
+		},
+		{
+			"path": "splash"
+		},
+		{
+			"path": "jobs"
+		},
+		{
+			"path": "common"
+		},
+		{
+			"path": "persons"
+		},
+		{
+			"path": "tcard"
+		},
+		{
+			"path": "pay"
+		},
+		{
+			"path": "OKtcard"
+		}
+	],
+	"settings": {}
+}
